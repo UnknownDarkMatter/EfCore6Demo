@@ -1,8 +1,8 @@
 ﻿using System.Collections.Generic;
 using Microsoft.EntityFrameworkCore;
 
-Console.WriteLine("Hello, World toto !");
-//prut after squash
+Console.WriteLine("Hello, World titi!");
+//prout after squash
 
 using (var context = new BloggingContext())
 {
