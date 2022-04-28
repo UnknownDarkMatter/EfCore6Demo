@@ -2,7 +2,7 @@
 using Microsoft.EntityFrameworkCore;
 
 Console.WriteLine("Hello, World!");
-
+//prut
 
 using (var context = new BloggingContext())
 {
