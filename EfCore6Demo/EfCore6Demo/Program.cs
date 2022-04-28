@@ -2,7 +2,7 @@
 using Microsoft.EntityFrameworkCore;
 
 Console.WriteLine("Hello, World toto !");
-//prut
+//prut after squash
 
 using (var context = new BloggingContext())
 {
