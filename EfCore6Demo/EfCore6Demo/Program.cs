@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using Microsoft.EntityFrameworkCore;
 
-Console.WriteLine("Hello, World!");
+Console.WriteLine("Hello, World toto !");
 //prut
 
 using (var context = new BloggingContext())
